@@ -52,3 +52,4 @@ We've added additional Ruby gems and other software that aren't automatically av
 - aliariff.vscode-erb-beautify
 - mbessey.vscode-rufo
 - vortizhe.simple-ruby-erb
+
